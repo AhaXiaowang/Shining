@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到欣欣有你科技有限公司~
 
 You can use the [editor on GitHub](https://github.com/AhaXiaowang/Shining/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
